@@ -31,7 +31,7 @@ const updateText = ref('Check for Update');
       on the fly like how many real players, who killed me, profile lookups and the other features that I've added in.
       <br />
       <br />
-      Got a suggestion? Message me on discord @Gun-Grave#8284 or let me know on
+      Got a suggestion? Message me on discord @gun.grave or let me know on
       <a
         href="#"
         @click="openUrl('https://github.com/GuardianSeeker/SniperHunter')"
@@ -93,8 +93,8 @@ const updateText = ref('Check for Update');
       for the skin icon images, and
       <a
         href="#"
-        @click="openUrl('https://github.com/xNocken/replay-reader')"
-      >xNocken</a>
+        @click="openUrl('https://github.com/Shiqan/FortniteReplayDecompressor')"
+      >Shiqan</a>
       for the fortnite replay parser and
       <a
         href="#"

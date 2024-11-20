@@ -15,7 +15,7 @@ import {closeProgram, minimizeProgram} from '#preload';
       "
       class="noselect"
     >
-      Sniper Hunter by Yaaver Imran
+      Sniper Hunter by Guardian Seeker
     </span>
     <span
       class="noselect titleButton"
